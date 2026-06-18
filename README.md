@@ -21,7 +21,7 @@ Java Backend Intern | IT Student @ SGU
 
 ### 🧰 Full Ecosystem 
 * **Languages:** Java, JavaScript, TypeScript, Python, PHP
-* **Backend Frameworks & Specs:** Hibernate (ORM), RESTful APIs, Spring Test, DAO Pattern, MVC / N-tier Architecture
+* **Backend Frameworks & Specs:** RESTful APIs, Spring Test, DAO Pattern, MVC / N-tier Architecture
 * **Databases & Management:** SQL Server, MSSQL, ERD Design, Triggers, Stored Procedures
 * **Frontend Integration:** React.js, Bootstrap, Thymeleaf
 * **Tools & Environment:** Docker, Maven, Postman, Figma, IntelliJ IDEA, VSCode
@@ -40,7 +40,6 @@ Java Backend Intern | IT Student @ SGU
 
 * 🏛️ Nghiên cứu sâu hơn về **Clean Architecture & Design Principles** để nâng cao tư duy thiết kế hệ thống.
 * 🐳 Làm chủ quy trình đóng gói và triển khai ứng dụng local với **Docker / Docker Compose**.
-* 🤖 Tìm hiểu và ứng dụng AI vào phần mềm thông qua các kỹ thuật nâng cao như **RAG (LangChain, FAISS)**.
 
 ---
 
